@@ -1,0 +1,22 @@
+{
+  "name": "fishu",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "server/int.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaNKaR/fishu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaNKaR/fishu/issues"
+  },
+  "homepage": "https://github.com/RaNKaR/fishu#readme",
+  "dependencies": {
+    "hapi": "^11.1.2"
+  }
+}
